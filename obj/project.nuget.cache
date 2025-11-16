@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWvK724+qrU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\choos\\source\\repos\\Avalre\\IT3045C_final\\IT3045C_final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\choos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\choos\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
