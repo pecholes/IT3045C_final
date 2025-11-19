@@ -1,4 +1,4 @@
-Swagger UI viewable at: https://localhost:<port>/swagger/
+Swagger UI viewable at: https://localhost:<port\>/swagger/
 
 Check the console that pops up while debugging to see what numbers you need to place in <port>.
 
