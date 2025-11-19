@@ -1,5 +1,4 @@
 /.vscode
-/obj
-/obj/Debug
-/obj/Debug/net9.0
 /.vs
+/obj
+/bin
