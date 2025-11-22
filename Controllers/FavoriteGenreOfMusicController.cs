@@ -9,9 +9,10 @@ public class FavoriteGenreOfMusicController : ControllerBase
 {
     private static readonly List<FavoriteGenreOfMusic> favoriteGenres = new()
     {
-        new FavoriteGenreOfMusic { ID = 1, Genre = "Rock", Artist = "Queen", Album = "A Night at the Opera", ReleaseYear = "1975" },
-        new FavoriteGenreOfMusic { ID = 2, Genre = "Pop", Artist = "Michael Jackson", Album = "Thriller", ReleaseYear = "1982" },
-        new FavoriteGenreOfMusic { ID = 3, Genre = "Hip Hop", Artist = "Tupac Shakur", Album = "All Eyez on Me", ReleaseYear = "1996" }
+        new FavoriteGenreOfMusic { ID = 1, Genre = "UNKNOWN", Artist = "UNKNOWN", Album = "UNKNOWN", ReleaseYear = "####" },
+        new FavoriteGenreOfMusic { ID = 2, Genre = "Pop", Artist = "Michael Jackson", Album = "Dirty Diana", ReleaseYear = "1988" },
+        new FavoriteGenreOfMusic { ID = 3, Genre = "UNKNOW", Artist = "UNKNOWN", Album = "UNKNONWN", ReleaseYear = "####" },
+        new FavoriteGenreOfMusic { ID = 4, Genre = "UNKNOWN", Artist = "UNKNOWN", Album = "UNKNOWN", ReleaseYear = "####" }
     };
 
     [HttpGet]
