@@ -9,7 +9,6 @@ namespace IT3045C_final.Models
         }
         public DbSet<TeamInfo> TeamInfo { get; set; }
         public DbSet<FavoriteVideoGame> FavoriteVideoGames { get; set; }
-
         public DbSet<FavoriteMovie> FavoriteMovies { get; set; }
         public DbSet<FavoriteGenreOfMusic> FavoriteGenresOfMusic { get; set; }
 
