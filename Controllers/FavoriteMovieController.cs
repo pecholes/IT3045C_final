@@ -11,7 +11,7 @@ public class FavoriteMovieController : ControllerBase
     {
         new FavoriteMovie { ID = 1, Title = "RED", Director = "Robert Schwentke", ReleaseYear = "2010", Genre = "Dark Comedy" },
         new FavoriteMovie { ID = 2, Title = "The Proposal", Director = "Anne Fletcher", ReleaseYear = "2009", Genre = "Rom-Com" },
-        new FavoriteMovie { ID = 3, Title = "UNKNOWN", Director = "UNKNOWN", ReleaseYear = "####", Genre = "UNKNOWN" },
+        new FavoriteMovie { ID = 3, Title = "The Maze Runner", Director = "Wes Ball", ReleaseYear = "2014", Genre = "Sciene Fiction" },
         new FavoriteMovie { ID = 4, Title = "Jason X", Director = "James Isaac", ReleaseYear = "2001", Genre = "Slasher" }
     };
 

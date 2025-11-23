@@ -11,7 +11,7 @@ public class FavoriteGenreOfMusicController : ControllerBase
     {
         new FavoriteGenreOfMusic { ID = 1, Genre = "Shoegaze", Artist = "Jane Remover", Album = "Census Designated", ReleaseYear = "2023" },
         new FavoriteGenreOfMusic { ID = 2, Genre = "Pop", Artist = "Michael Jackson", Album = "Dirty Diana", ReleaseYear = "1988" },
-        new FavoriteGenreOfMusic { ID = 3, Genre = "UNKNOWN", Artist = "UNKNOWN", Album = "UNKNOWN", ReleaseYear = "####" },
+        new FavoriteGenreOfMusic { ID = 3, Genre = "Rock/Metal", Artist = "Sleep Token", Album = "Take Me Back To Eden", ReleaseYear = "2023" },
         new FavoriteGenreOfMusic { ID = 4, Genre = "Alternative/Indie", Artist = "Phoneboy", Album = "Heartbreak Designer", ReleaseYear = "2025" }
     };
 
