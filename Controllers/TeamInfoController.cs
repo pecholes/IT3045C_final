@@ -35,9 +35,9 @@ public class TeamInfoController(ILogger<TeamInfoController> logger) : Controller
         new() {
             ID = 4,
             Name = "Jacob Nolen",
-            Birthdate = "UNKNOWN",
-            CollegeProgram = "UNKNOWN",
-            YearInProgram = "UNKNOWN"
+            Birthdate = "08-01-05",
+            CollegeProgram = "Information Technology",
+            YearInProgram = "Junior"
         }
     };
 
