@@ -35,6 +35,7 @@ app.UseRouting();
 app.UseAuthorization();
 app.UseStaticFiles();
 app.MapControllers();
+app.MapGet("/", () => "API is running on Azure!");
 
 Console.WriteLine(AppDomain.CurrentDomain.GetData("DataDirectory"));
 
